@@ -1,2 +1,12 @@
-# KusaLand.github.io
-Welcome to KusaLand
+# KusaLand
+## Kusa Event for Kusa Eventers, I guess...
+Welcome to KusaLand!  
+言いたいことがファイボワイパー、  
+やっぱりタイガータタタタタイガー、  
+好きすき、大好きﾁｬﾍﾟｱﾍﾟｶﾗｷﾅ  
+やっと見つけた👏ワイパー！  
+  
+俺が生まれて虎虎カラキナ  
+それはファーマー、海女海女ジャスパー  
+俺と一緒に虎タイガー  
+世界で一番、イエッタイガー！！ 🏡🐯  
