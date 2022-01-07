@@ -39,6 +39,7 @@ const cardMsgLoader = ()=>{
 const windowLoader = ()=>{
    cardContainerElm = document.querySelector('#card-container');
    cardMsgLoader();
+   console.log(`%chey elira i'm begging you i'm on my knees here pleading please play minecraft with me i am seriously begging here I am going to pass away please help minecraft is the only cure please elira`, 'background: #005454; color: #BFF8F8; font-size: 45px;');
 };
 
 window.addEventListener('DOMContentLoaded', windowLoader);
